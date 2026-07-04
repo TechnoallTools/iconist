@@ -1,0 +1,189 @@
+# Copyright (C) 2024 Iconist
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Iconist 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-01 00:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: WP-CLI 2.8.0\n"
+"X-Domain: iconist\n"
+
+#: admin/class-iconist-admin.php
+msgid "آیکونیست | Iconist"
+msgstr ""
+
+#: admin/class-iconist-admin.php
+msgid "آیکونیست"
+msgstr ""
+
+#: admin/class-iconist-admin.php
+msgid "تنظیمات با موفقیت ذخیره شد ✓"
+msgstr ""
+
+#: admin/class-iconist-admin.php
+msgid "تنظیمات کلی"
+msgstr ""
+
+#: admin/class-iconist-admin.php
+msgid "تبدیل دسته‌جمعی"
+msgstr ""
+
+#: admin/class-iconist-admin.php
+msgid "وضعیت سرور"
+msgstr ""
+
+#: admin/class-iconist-admin.php
+msgid "افزونه فعال است"
+msgstr ""
+
+#: admin/class-iconist-admin.php
+msgid "رایگان برای همیشه"
+msgstr ""
+
+#: admin/class-iconist-admin.php
+msgid "درباره افزونه"
+msgstr ""
+
+#: admin/class-iconist-admin.php
+msgid "تنظیمات تبدیل"
+msgstr ""
+
+#: admin/class-iconist-admin.php
+msgid "تبدیل خودکار هنگام آپلود"
+msgstr ""
+
+#: admin/class-iconist-admin.php
+msgid "هر SVG جدیدی که آپلود می‌شود به‌صورت خودکار تبدیل می‌گردد"
+msgstr ""
+
+#: admin/class-iconist-admin.php
+msgid "تبدیل ویژگی fill"
+msgstr ""
+
+#: admin/class-iconist-admin.php
+msgid "مقدار fill در تگ‌های SVG به currentColor تبدیل می‌شود"
+msgstr ""
+
+#: admin/class-iconist-admin.php
+msgid "تبدیل ویژگی stroke"
+msgstr ""
+
+#: admin/class-iconist-admin.php
+msgid "مقدار stroke در تگ‌های SVG به currentColor تبدیل می‌شود"
+msgstr ""
+
+#: admin/class-iconist-admin.php
+msgid "پردازش استایل‌های inline"
+msgstr ""
+
+#: admin/class-iconist-admin.php
+msgid "رنگ‌های تعریف‌شده در style=\"\" و تگ <style> نیز پردازش می‌شوند"
+msgstr ""
+
+#: admin/class-iconist-admin.php
+msgid "ذخیره تنظیمات"
+msgstr ""
+
+#: admin/class-iconist-admin.php
+msgid "این ابزار تمام فایل‌های SVG موجود در کتابخانه رسانه وردپرس را پیدا کرده و آن‌ها را برای استفاده در المنتور آماده می‌کند."
+msgstr ""
+
+#: admin/class-iconist-admin.php
+msgid "تبدیل همه آیکون‌ها"
+msgstr ""
+
+#: admin/class-iconist-admin.php
+msgid "گزارش تبدیل"
+msgstr ""
+
+#: admin/class-iconist-admin.php
+msgid "پاک کردن"
+msgstr ""
+
+#: admin/class-iconist-admin.php
+msgid "همه فایل‌ها با موفقیت پردازش شدند!"
+msgstr ""
+
+#: admin/class-iconist-admin.php
+msgid "اطلاعات محیط"
+msgstr ""
+
+#: admin/class-iconist-admin.php
+msgid "زبان سایت"
+msgstr ""
+
+#: admin/class-iconist-admin.php
+msgid "تأیید عملیات"
+msgstr ""
+
+#: admin/class-iconist-admin.php
+msgid "انصراف"
+msgstr ""
+
+#: admin/class-iconist-admin.php
+msgid "ادامه"
+msgstr ""
+
+#: includes/class-iconist-converter.php
+msgid "فایل پیدا نشد."
+msgstr ""
+
+#: includes/class-iconist-converter.php
+msgid "خواندن فایل ممکن نیست."
+msgstr ""
+
+#: includes/class-iconist-converter.php
+msgid "نوشتن فایل ممکن نیست."
+msgstr ""
+
+#: includes/class-iconist-converter.php
+msgid "تغییری نیاز نبود."
+msgstr ""
+
+#: includes/class-iconist-converter.php
+msgid "با موفقیت تبدیل شد."
+msgstr ""
+
+#: includes/class-iconist-converter.php
+msgid "فعال — تبدیل دقیق DOM"
+msgstr ""
+
+#: includes/class-iconist-converter.php
+msgid "غیرفعال — از روش Regex استفاده می‌شود"
+msgstr ""
+
+#: includes/class-iconist-converter.php
+msgid "فعال"
+msgstr ""
+
+#: includes/class-iconist-converter.php
+msgid "غیرفعال"
+msgstr ""
+
+#: includes/class-iconist-converter.php
+msgid "فعال — آپلود SVG مجاز است"
+msgstr ""
+
+#: includes/class-iconist-converter.php
+msgid "دسترسی غیرمجاز"
+msgstr ""
+
+#: includes/class-iconist-converter.php
+msgid "فایل پیدا نشد: %s"
+msgstr ""
+
+#: includes/class-iconist-converter.php
+msgid "قبلاً تبدیل شده بود."
+msgstr ""
+
+#: includes/class-iconist-converter.php
+msgid "با موفقیت تبدیل شد ✓"
+msgstr ""
