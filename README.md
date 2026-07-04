@@ -41,4 +41,4 @@
 
 ## توسعه‌دهنده
 
-ساخته‌شده توسط تیم [TechnoAll](https://technoall.ir)
+ساخته‌شده توسط تیم [Technoall](https://technoall.ir)
