@@ -1,0 +1,314 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: آیکونیست\n"
+"POT-Creation-Date: 2026-07-09 12:34+0330\n"
+"PO-Revision-Date: 2026-07-09 12:54+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: iconist.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-iconist-admin.php:16
+msgid "تنظیمات آیکونیست"
+msgstr "Iconist Settings"
+
+#. Plugin Name of the plugin/theme
+#: admin/class-iconist-admin.php:17 admin/class-iconist-admin.php:97
+msgid "آیکونیست"
+msgstr "Iconist"
+
+#: admin/class-iconist-admin.php:51
+msgid "در حال تبدیل..."
+msgstr "Converting..."
+
+#: admin/class-iconist-admin.php:52 admin/class-iconist-admin.php:271
+msgid "تبدیل همه آیکون‌ها"
+msgstr "Convert All Icons"
+
+#: admin/class-iconist-admin.php:53
+msgid "همه تبدیل‌ها انجام شد!"
+msgstr "All icons have been converted successfully!"
+
+#: admin/class-iconist-admin.php:54
+msgid "تبدیل به‌دلیل خطا متوقف شد."
+msgstr "Conversion stopped due to an error."
+
+#: admin/class-iconist-admin.php:55
+msgid "آیا مطمئن هستید؟ تمام SVGهای موجود در رسانه وردپرس تبدیل می‌شوند."
+msgstr ""
+"Are you sure? All SVG files in the WordPress Media Library will be converted."
+
+#: admin/class-iconist-admin.php:56
+msgid "در حال محاسبه تعداد فایل‌ها..."
+msgstr "Counting SVG files..."
+
+#: admin/class-iconist-admin.php:57
+msgid "هیچ فایل SVG برای تبدیل پیدا نشد."
+msgstr "No SVG files found to convert."
+
+#: admin/class-iconist-admin.php:58
+msgid "فایل SVG برای تبدیل پیدا شد."
+msgstr "SVG file found for conversion."
+
+#: admin/class-iconist-admin.php:59
+msgid "در حال تبدیل:"
+msgstr "Converting:"
+
+#: admin/class-iconist-admin.php:60
+msgid "تلاش مجدد..."
+msgstr "Retrying..."
+
+#: admin/class-iconist-admin.php:61
+msgid "خطای شبکه — تلاش مجدد"
+msgstr "Network error — Retrying"
+
+#: admin/class-iconist-admin.php:62 admin/class-iconist-admin.php:442
+msgid "تأیید فرایند"
+msgstr "Confirm Conversion"
+
+#: admin/class-iconist-admin.php:63 admin/class-iconist-admin.php:445
+msgid "انصراف"
+msgstr "Cancel"
+
+#: admin/class-iconist-admin.php:64 admin/class-iconist-admin.php:446
+msgid "ادامه"
+msgstr "Continue"
+
+#: admin/class-iconist-admin.php:80
+msgid "تنظیمات آیکونیست با موفقیت ذخیره شد."
+msgstr "Iconist settings saved successfully."
+
+#: admin/class-iconist-admin.php:115
+msgid "تنظیمات عمومی"
+msgstr "General Settings"
+
+#: admin/class-iconist-admin.php:128 admin/class-iconist-admin.php:257
+msgid "تبدیل دسته‌جمعی"
+msgstr "Bulk Conversion"
+
+#: admin/class-iconist-admin.php:144
+msgid "استثناها"
+msgstr "Exclusions"
+
+#: admin/class-iconist-admin.php:161 admin/class-iconist-admin.php:380
+msgid "وضعیت سرور"
+msgstr "Server Status"
+
+#: admin/class-iconist-admin.php:169
+msgid "افزونه فعال است"
+msgstr "Plugin Active"
+
+#: admin/class-iconist-admin.php:176
+msgid "رایگان برای همیشه"
+msgstr "Free Forever"
+
+#: admin/class-iconist-admin.php:196
+msgid "درباره افزونه"
+msgstr "About Iconist"
+
+#: admin/class-iconist-admin.php:199
+msgid ""
+"آیکونیست به‌صورت خودکار تمام فایل‌های SVG آپلود‌شده در رسانه وردپرس را دریافت "
+"می‌کند و با ایجاد تغییراتی، آیکون ها را برای استفاده و تغییر رنگ در المنتور "
+"آماده می‌کند."
+msgstr ""
+"Iconist automatically processes all SVG files uploaded to the WordPress Media "
+"Library and optimizes them for seamless use and color customization in "
+"Elementor."
+
+#: admin/class-iconist-admin.php:211
+msgid "تنظیمات تبدیل"
+msgstr "Conversion Settings"
+
+#: admin/class-iconist-admin.php:217
+msgid "تبدیل خودکار هنگام آپلود"
+msgstr "Automatically Convert on Upload"
+
+#: admin/class-iconist-admin.php:218
+msgid "هر SVG جدیدی که آپلود می‌شود به‌صورت خودکار تبدیل می‌گردد"
+msgstr "Automatically convert every newly uploaded SVG file."
+
+#: admin/class-iconist-admin.php:228
+msgid "ذخیره نسخه پشتیبان قبل از تبدیل"
+msgstr "Create a Backup Before Conversion"
+
+#: admin/class-iconist-admin.php:229
+msgid ""
+"قبل از هر تبدیل، یک نسخه پشتیبان از فایل اصلی با پسوند -iconist-backup ذخیره "
+"می‌شود"
+msgstr ""
+"A backup of the original file will be created before each conversion, using "
+"the -iconist-backup suffix."
+
+#: admin/class-iconist-admin.php:242
+msgid "ذخیره تنظیمات"
+msgstr "Save Settings"
+
+#: admin/class-iconist-admin.php:260
+msgid ""
+"این ابزار تمام فایل‌های SVG موجود در رسانه وردپرس را پیدا کرده و آن‌ها را برای "
+"استفاده در المنتور آماده می‌کند."
+msgstr ""
+"This tool finds all SVG files in your WordPress Media Library and converts "
+"them for seamless use in Elementor."
+
+#: admin/class-iconist-admin.php:287
+msgid "گزارش تبدیل"
+msgstr "Conversion Report"
+
+#: admin/class-iconist-admin.php:288
+msgid "پاک کردن"
+msgstr "Clear"
+
+#: admin/class-iconist-admin.php:300
+msgid "همه فایل‌ها با موفقیت تبدیل شدند!"
+msgstr "All files have been converted successfully!"
+
+#: admin/class-iconist-admin.php:317
+msgid "فایل‌های استثنا"
+msgstr "Excluded Files"
+
+#: admin/class-iconist-admin.php:320
+msgid "فایل‌های SVG زیر هنگام آپلود و تبدیل دسته‌جمعی دست نخورده باقی می‌مانند."
+msgstr ""
+"The following SVG files will be excluded from automatic and bulk conversion."
+
+#: admin/class-iconist-admin.php:330
+msgid "افزودن از رسانه وردپرس"
+msgstr "Add from WordPress Media Library"
+
+#: admin/class-iconist-admin.php:338
+msgid "هیچ استثنایی تعریف نشده."
+msgstr "No exclusions have been added."
+
+#: admin/class-iconist-admin.php:357
+msgid "حذف"
+msgstr "Remove"
+
+#: admin/class-iconist-admin.php:407
+msgid "اطلاعات سایت"
+msgstr "Site Information"
+
+#: admin/class-iconist-admin.php:423
+msgid "زبان سایت"
+msgstr "Site Language"
+
+#: includes/class-iconist-converter.php:62
+#: includes/class-iconist-converter.php:418
+msgid "فایل پیدا نشد."
+msgstr "No file found."
+
+#: includes/class-iconist-converter.php:66
+msgid "فایل قابل نوشتن نیست."
+msgstr "File is not writable."
+
+#: includes/class-iconist-converter.php:71
+msgid "خواندن فایل ممکن نیست."
+msgstr "Unable to read the file."
+
+#: includes/class-iconist-converter.php:76
+msgid "فایل SVG معتبر نیست."
+msgstr "Invalid SVG file."
+
+#: includes/class-iconist-converter.php:82
+msgid "تغییری نیاز نبود."
+msgstr "No changes were needed."
+
+#: includes/class-iconist-converter.php:95
+msgid "نوشتن فایل ممکن نیست."
+msgstr "Unable to write to the file."
+
+#: includes/class-iconist-converter.php:98
+msgid "با موفقیت تبدیل شد."
+msgstr "Converted successfully."
+
+#: includes/class-iconist-converter.php:259
+msgid "فعال — تبدیل دقیق DOM"
+msgstr "Enabled — DOM-Based Conversion"
+
+#: includes/class-iconist-converter.php:260
+msgid "غیرفعال — از روش Regex استفاده می‌شود"
+msgstr "Disabled — Using Regex-Based Conversion"
+
+#: includes/class-iconist-converter.php:265
+msgid "فعال"
+msgstr "Enabled"
+
+#: includes/class-iconist-converter.php:266
+msgid "غیرفعال"
+msgstr "Disabled"
+
+#: includes/class-iconist-converter.php:270
+msgid "فعال — آپلود SVG مجاز است"
+msgstr "Enabled — SVG uploads are allowed."
+
+#: includes/class-iconist-converter.php:282
+#: includes/class-iconist-converter.php:299
+#: includes/class-iconist-converter.php:310
+#: includes/class-iconist-converter.php:343
+#: includes/class-iconist-converter.php:408
+msgid "دسترسی غیرمجاز"
+msgstr "Unauthorized access."
+
+#: includes/class-iconist-converter.php:286
+#: includes/class-iconist-converter.php:413
+msgid "شناسه نامعتبر"
+msgstr "Invalid ID."
+
+#: includes/class-iconist-converter.php:380
+#, php-format
+msgid "فایل پیدا نشد: %s"
+msgstr "File not found: %s"
+
+#: includes/class-iconist-converter.php:385
+msgid "در لیست استثناهاست — رد شد."
+msgstr "Excluded — Skipped."
+
+#: includes/class-iconist-converter.php:394
+msgid "قبلاً تبدیل شده بود."
+msgstr "Already converted."
+
+#: includes/class-iconist-converter.php:396
+msgid "با موفقیت تبدیل شد!"
+msgstr "Converted successfully!"
+
+#: includes/class-iconist-converter.php:426
+msgid "فایل پشتیبان وجود ندارد."
+msgstr "Backup file not found."
+
+#: includes/class-iconist-converter.php:431
+msgid "بازیابی فایل ممکن نیست."
+msgstr "Unable to restore the file."
+
+#: includes/class-iconist-converter.php:434
+msgid "فایل با موفقیت بازیابی شد."
+msgstr "File restored successfully."
+
+#. Plugin URI of the plugin/theme
+msgid "https://technoall.ir"
+msgstr "https://technoall.ir"
+
+#. Description of the plugin/theme
+msgid ""
+"افزونه سبک و حرفه‌ای برای تبدیل خودکار آیکون های SVG برای استفاده و ویرایش در "
+"المنتور"
+msgstr ""
+"A lightweight, professional plugin that automatically converts SVG icons for "
+"seamless use and color customization in Elementor."
+
+#. Author of the plugin/theme
+msgid "Technoall"
+msgstr "Technoall"
